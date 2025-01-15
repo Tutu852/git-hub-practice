@@ -1,5 +1,5 @@
 (function name(){
-    const myName = "rajesh";
+    const myName = "rajesh kumar";
     function inner(){
         console.log(myName);
     }
