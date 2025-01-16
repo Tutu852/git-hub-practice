@@ -3,7 +3,7 @@ const name1 = "Rajesh kumar"
 const dob ="15/04/1998"
 
 function sayName(){
-    console.log('My Name is ' + name);
+    console.log(`My Name is  ${name1}`);
 }
 
 function isAbove18(){
