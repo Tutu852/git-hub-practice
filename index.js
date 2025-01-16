@@ -9,6 +9,9 @@ function sayName(){
 function isAbove18(){
     return age >= 19;
 }
+function isAbove18(){
+    return age >= 25;
+}
 
  
 function newFeaturreAdded(){
